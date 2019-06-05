@@ -64,6 +64,9 @@ export class FormPersonalDetails extends Component {
 const styles = {
   button: {
     margin: 15
+  },
+  text: {
+    color: '#333232' 
   }
 };
 
