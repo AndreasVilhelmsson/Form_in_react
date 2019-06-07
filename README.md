@@ -1,13 +1,10 @@
 ## Navigation between forms example
-This is a mini project about how to filter out data using React and Contentful.
-
-Go and test it out [Here](http://mushy-believe.surge.sh)
+This is a mini project in haw you can build a navigation in react using materialize
+build under my time in Jensen Academy
 
 ### Technologies
 * React
-* Contentful
-* Styled Components
-
+* materialize-ui
 text: ![alt test](public/images/form.png)
 
 ### Set up the project
