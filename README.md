@@ -1,5 +1,5 @@
 ## Navigation between forms example
-This is a mini project in haw you can build a navigation in react using materialize
+This is a mini project in how you can build a navigation in react using materialize-ui.
 build under my time in Jensen Academy
 
 ### Technologies
